@@ -1,0 +1,8 @@
+{
+  "name": "Smart Finance Pro",
+  "description": "A comprehensive financial management dashboard with AI-powered insights for tracking monthly salary, expenses, and budget categories.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
